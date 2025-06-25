@@ -189,4 +189,9 @@ export default {
 		btnTwo: '马上更新',
 		btnTwoLoading: '更新中',
 	},
+	lowCode: {
+		lowCode: '低代码',
+		formCreate: 'formCreate',
+		formDesigner: 'formDesigner',
+	},
 };
